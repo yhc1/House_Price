@@ -1,2 +1,15 @@
 # House_Price
-利用79個變數來預測在Iowa洲的住宅房價
+Predicting Iowa house price by 79 features.
+
+### Data Clean
+* Data Type Transformation
+* Imputation
+
+* Create / Discard Features
+
+* Unskew Data
+* Outlier Detection
+
+* Model Selection
+
+Final result : top 16%
