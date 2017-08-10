@@ -12,4 +12,4 @@ Predicting Iowa house price by 79 features.
 
 * Model Selection
 
-Final result : top 16%
+Final result : top 1%
